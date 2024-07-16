@@ -200,5 +200,7 @@ Logo em seguida, nós iremos fazer um `append` dos erros na lista `histórico`.
 
 Por fim, após as 5 épocas, imprimos na tela o dicionário de perdas, apra assim, monitorarmos o progresso do treinamento da NLP.
 
+---
+
 E é isso gente, concluímos nossa NLP! Espero que tenham gostado! 🚀
 Caso vocês queiram aprender mais sobre, recomendo muito os cursos do Jonas Granatyr, da Udemy! ^^
