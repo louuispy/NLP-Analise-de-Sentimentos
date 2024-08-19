@@ -198,7 +198,7 @@ Depois disso, chamamos o método `update` do modelo para atualizar os pesos do m
 
 Logo em seguida, nós iremos fazer um `append` dos erros na lista `histórico`.
 
-Por fim, após as 5 épocas, imprimos na tela o dicionário de perdas, apra assim, monitorarmos o progresso do treinamento da NLP.
+Por fim, após as 5 épocas, imprimos na tela o dicionário de perdas, para assim, monitorarmos o progresso do treinamento da NLP.
 
 ---
 
