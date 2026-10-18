@@ -1,8 +1,6 @@
 # NLP-Analise-de-Sentimentos
 
-Faaaaaaaaaaaaala galera, tudo bem com vocês? Espero que sim!  
-  
-Venho aqui compartilhar com vocês um projeto que eu fiz recentemente, que consiste basicamente em uma NLP para realizar a análise de sentimentos em comentários do X (antigo Twitter)! Foi um projeto que fiz um tempinho atrás, mas que eu ainda não havia compartilhado e documentado passo a passo do projeto aqui com vocês, então aqui está todo o projeto! 😊
+Venho aqui compartilhar com vocês um projeto que eu fiz recentemente, que consiste basicamente em uma NLP para realizar a análise de sentimentos em comentários do X (antigo Twitter)! Foi um projeto que fiz um tempinho atrás, mas que eu ainda não havia compartilhado e documentado passo a passo do projeto aqui com vocês, então aqui está todo o projeto.
 
 ---
 
